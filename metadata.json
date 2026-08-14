@@ -1,0 +1,6 @@
+{
+  "name": "MEMO AI",
+  "description": "Premium AI-first notes application with automatic organization, entity and task extraction, and Ask Your Notes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
